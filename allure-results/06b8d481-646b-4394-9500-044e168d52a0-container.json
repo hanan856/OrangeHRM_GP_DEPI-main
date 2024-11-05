@@ -1,0 +1,1 @@
+{"uuid":"06b8d481-646b-4394-9500-044e168d52a0","name":"Base.baseTest.screenShot","children":["7e9cd4be-399c-4316-9697-f6b2cd2c0d9c"],"description":"","befores":[],"afters":[{"name":"screenShot","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729368429221,"stop":1729368429222}],"start":1729368429221,"stop":1729368429222}

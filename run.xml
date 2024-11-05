@@ -1,0 +1,15 @@
+<test name="Teest">
+    <groups>
+        <run>
+            <exclude name="test"/>
+        </run>
+    </groups>
+
+    <classes>
+        <class name="test.IndividualMethodsTest">
+            <methods>
+                <include name="testMethod"/>
+            </methods>
+        </class>
+    </classes>
+</test>
